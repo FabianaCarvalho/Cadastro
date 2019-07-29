@@ -6,3 +6,4 @@ Projeto simples de um cadastro do site http://automationpractice.com/, que conte
 2) PageObject.
 3) Geração dinâmica de dados, utilizando a Gem Faker.
 4) Validação da mensagem de retorno.
+5) Screenshots
